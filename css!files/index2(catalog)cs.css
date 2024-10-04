@@ -1,0 +1,84 @@
+.t {
+    width:100%
+}
+.h {
+    background-color: rgb(233, 29, 22);
+    border-color: rgb(233, 29, 22);
+    height:40px;
+    padding:3px;
+}
+.prod {
+    display:table;
+    background: #fff; none repeat scroll 0 0;
+    border: 1px solid #241b1b;
+    height: 40%;
+    padding: 25px 15px;
+    position: sticky;
+    text-align: center;
+    margin-bottom: auto;
+    width: 30%
+   }
+   .prod:hover {
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+   }
+
+
+.str > .prod {
+    display: inline-block;
+    margin-top: 50px;
+}
+.second > .prod {
+    display: inline-block;
+    margin-top: 50px;  
+}
+.cen {
+    color:darkgreen
+}
+
+.but {
+        background-color: rgb(233, 29, 22); /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        height: 10%;   
+}
+.but:hover {
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+   }
+td {
+    text-align: center;
+    }
+.hye {
+    color:rgb(255, 246, 246);
+    text-decoration: none }
+a:hover {
+        color: rgb(14, 136, 60);
+}
+.b {
+    color:rgb(107, 39, 39);
+    text-decoration: none }
+}
+.tit {
+    display: inline;
+}
+h1 {
+    text-align: center;
+    color:rgb(3, 167, 44);
+    font:size  50px;
+    font-family: 'Montserrat Alternates',sans-serif;
+    word-spacing: 50px;
+    line-height: 70px;
+}
+.F {
+    background-color: rgb(233, 29, 22);
+    border-color: rgb(233, 29, 22);
+    height:40px;
+    padding:3px;
+    color: rgb(255, 255, 255);
+    font-size:small;
+    
+}
